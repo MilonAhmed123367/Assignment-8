@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/758/758814.png",
+    "title": "ChatSphere Messenger",
+    "companyName": "CommuniTech Solutions",
+    "id": 101,
+    "description": "Fast, secure, and reliable messaging with end-to-end encryption. Group chats and video calls included.",
+    "size": 78.5,
+    "reviews": 125430,
+    "ratingAvg": 4.6,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 3762 },
+      { "name": "2 star", "count": 5017 },
+      { "name": "3 star", "count": 13797 },
+      { "name": "4 star", "count": 28312 },
+      { "name": "5 star", "count": 74542 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888877.png",
+    "title": "BudgetWise Tracker",
+    "companyName": "Finnovate Labs",
+    "id": 102,
+    "description": "Manage your personal finances easily. Track expenses, set budgets, and save smarter.",
+    "size": 42.1,
+    "reviews": 89215,
+    "ratingAvg": 4.8,
+    "downloads": "1.25M",
+    "ratings": [
+      { "name": "1 star", "count": 892 },
+      { "name": "2 star", "count": 1784 },
+      { "name": "3 star", "count": 3569 },
+      { "name": "4 star", "count": 18735 },
+      { "name": "5 star", "count": 64235 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5906/5906201.png",
+    "title": "Brain Teaser Daily",
+    "companyName": "Puzzle Masters Inc.",
+    "id": 103,
+    "description": "A collection of engaging daily puzzles and brain games to keep your mind sharp.",
+    "size": 95.0,
+    "reviews": 23050,
+    "ratingAvg": 4.1,
+    "downloads": "750K",
+    "ratings": [
+      { "name": "1 star", "count": 1613 },
+      { "name": "2 star", "count": 2305 },
+      { "name": "3 star", "count": 4841 },
+      { "name": "4 star", "count": 5293 },
+      { "name": "5 star", "count": 8998 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2838/2838912.png",
+    "title": "TrailFinder GPS",
+    "companyName": "Outdoor Navigator Co.",
+    "id": 104,
+    "description": "Offline maps and GPS tracking for hiking, biking, and outdoor adventures.",
+    "size": 155.3,
+    "reviews": 15720,
+    "ratingAvg": 4.9,
+    "downloads": "400K",
+    "ratings": [
+      { "name": "1 star", "count": 78 },
+      { "name": "2 star", "count": 157 },
+      { "name": "3 star", "count": 314 },
+      { "name": "4 star", "count": 2987 },
+      { "name": "5 star", "count": 12184 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2070/2070624.png",
+    "title": "RhythmStream",
+    "companyName": "AudioVerse Media",
+    "id": 105,
+    "description": "Stream millions of songs ad-free. Create and share personalized playlists.",
+    "size": 65.8,
+    "reviews": 560100,
+    "ratingAvg": 4.5,
+    "downloads": "25M",
+    "ratings": [
+      { "name": "1 star", "count": 28005 },
+      { "name": "2 star", "count": 33606 },
+      { "name": "3 star", "count": 67212 },
+      { "name": "4 star", "count": 140025 },
+      { "name": "5 star", "count": 291252 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1077/1077114.png",
+    "title": "PhotoEdit Pro",
+    "companyName": "Creative Suite Labs",
+    "id": 106,
+    "description": "Professional photo editing tools, filters, and effects for stunning results.",
+    "size": 122.9,
+    "reviews": 98765,
+    "ratingAvg": 4.7,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 1975 },
+      { "name": "2 star", "count": 2963 },
+      { "name": "3 star", "count": 6914 },
+      { "name": "4 star", "count": 24691 },
+      { "name": "5 star", "count": 62222 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3106/3106757.png",
+    "title": "TaskFlow Organizer",
+    "companyName": "Productivity Hub",
+    "id": 107,
+    "description": "The ultimate to-do list and task management application. Stay on top of your schedule.",
+    "size": 35.7,
+    "reviews": 45100,
+    "ratingAvg": 4.4,
+    "downloads": "900K",
+    "ratings": [
+      { "name": "1 star", "count": 2255 },
+      { "name": "2 star", "count": 3157 },
+      { "name": "3 star", "count": 7216 },
+      { "name": "4 star", "count": 11275 },
+      { "name": "5 star", "count": 21197 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3642/3642080.png",
+    "title": "ReadMe E-Library",
+    "companyName": "Digital Pages Co.",
+    "id": 108,
+    "description": "Access millions of ebooks and audiobooks right from your device. Personalize your reading experience.",
+    "size": 58.2,
+    "reviews": 110550,
+    "ratingAvg": 4.6,
+    "downloads": "4.5M",
+    "ratings": [
+      { "name": "1 star", "count": 3316 },
+      { "name": "2 star", "count": 4422 },
+      { "name": "3 star", "count": 12161 },
+      { "name": "4 star", "count": 26532 },
+      { "name": "5 star", "count": 64119 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/990/990833.png",
+    "title": "FitLife Trainer",
+    "companyName": "Health & Wellness Tech",
+    "id": 109,
+    "description": "Personalized workout plans, progress tracking, and diet recommendations.",
+    "size": 105.1,
+    "reviews": 75000,
+    "ratingAvg": 4.5,
+    "downloads": "2M",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4500 },
+      { "name": "3 star", "count": 9000 },
+      { "name": "4 star", "count": 18750 },
+      { "name": "5 star", "count": 39750 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3032/3032128.png",
+    "title": "CineGo Streaming",
+    "companyName": "Global Entertainment",
+    "id": 110,
+    "description": "Watch the latest movies and TV shows on demand in high definition.",
+    "size": 88.0,
+    "reviews": 340000,
+    "ratingAvg": 4.3,
+    "downloads": "15M",
+    "ratings": [
+      { "name": "1 star", "count": 27200 },
+      { "name": "2 star", "count": 37400 },
+      { "name": "3 star", "count": 54400 },
+      { "name": "4 star", "count": 85000 },
+      { "name": "5 star", "count": 136000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "title": "Aura Weather Forecast",
+    "companyName": "SkyWatch Data",
+    "id": 111,
+    "description": "Accurate, real-time weather information and 7-day forecasts for your location.",
+    "size": 25.4,
+    "reviews": 55000,
+    "ratingAvg": 4.7,
+    "downloads": "1.8M",
+    "ratings": [
+      { "name": "1 star", "count": 550 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 4400 },
+      { "name": "4 star", "count": 13750 },
+      { "name": "5 star", "count": 35200 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/263/263142.png",
+    "title": "ShopEasy Market",
+    "companyName": "E-Commerce Solutions",
+    "id": 112,
+    "description": "Find the best deals and shop for millions of products with fast shipping.",
+    "size": 72.3,
+    "reviews": 210000,
+    "ratingAvg": 4.2,
+    "downloads": "7.5M",
+    "ratings": [
+      { "name": "1 star", "count": 18900 },
+      { "name": "2 star", "count": 23100 },
+      { "name": "3 star", "count": 37800 },
+      { "name": "4 star", "count": 50400 },
+      { "name": "5 star", "count": 79800 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3067/3067823.png",
+    "title": "MeditateNow Guide",
+    "companyName": "Mindfulness Works",
+    "id": 113,
+    "description": "Guided meditations and sleep stories to reduce stress and improve focus.",
+    "size": 99.6,
+    "reviews": 60500,
+    "ratingAvg": 4.8,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 605 },
+      { "name": "2 star", "count": 1210 },
+      { "name": "3 star", "count": 2420 },
+      { "name": "4 star", "count": 15125 },
+      { "name": "5 star", "count": 41140 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2723/2723650.png",
+    "title": "QuickBite Delivery",
+    "companyName": "FoodLogistics Group",
+    "id": 114,
+    "description": "Order food from your favorite local restaurants and track your delivery in real-time.",
+    "size": 52.9,
+    "reviews": 180000,
+    "ratingAvg": 4.5,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 9000 },
+      { "name": "2 star", "count": 12600 },
+      { "name": "3 star", "count": 28800 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 84600 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1006/1006456.png",
+    "title": "CodeLearn Interactive",
+    "companyName": "DevSkills Academy",
+    "id": 115,
+    "description": "Learn to code with interactive lessons in Python, JavaScript, and more.",
+    "size": 115.0,
+    "reviews": 32000,
+    "ratingAvg": 4.6,
+    "downloads": "800K",
+    "ratings": [
+      { "name": "1 star", "count": 960 },
+      { "name": "2 star", "count": 1280 },
+      { "name": "3 star", "count": 3840 },
+      { "name": "4 star", "count": 9600 },
+      { "name": "5 star", "count": 16320 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1908/1908027.png",
+    "title": "Galaxy Quest Saga",
+    "companyName": "Pixel Dreams Studio",
+    "id": 116,
+    "description": "An epic space strategy game with stunning graphics and complex missions.",
+    "size": 890.5,
+    "reviews": 450000,
+    "ratingAvg": 4.4,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 22500 },
+      { "name": "2 star", "count": 31500 },
+      { "name": "3 star", "count": 67500 },
+      { "name": "4 star", "count": 112500 },
+      { "name": "5 star", "count": 216000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3663/3663155.png",
+    "title": "LinguaTranslate Pro",
+    "companyName": "WordBridge Technologies",
+    "id": 117,
+    "description": "Instant translation for over 100 languages with voice and camera support.",
+    "size": 60.1,
+    "reviews": 13500,
+    "ratingAvg": 4.9,
+    "downloads": "350K",
+    "ratings": [
+      { "name": "1 star", "count": 67 },
+      { "name": "2 star", "count": 135 },
+      { "name": "3 star", "count": 270 },
+      { "name": "4 star", "count": 3375 },
+      { "name": "5 star", "count": 9653 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2965/2965879.png",
+    "title": "Global Daily News",
+    "companyName": "InfoStream Media",
+    "id": 118,
+    "description": "Up-to-the-minute world news, personalized feeds, and in-depth articles.",
+    "size": 40.8,
+    "reviews": 165000,
+    "ratingAvg": 4.3,
+    "downloads": "5.5M",
+    "ratings": [
+      { "name": "1 star", "count": 13200 },
+      { "name": "2 star", "count": 19800 },
+      { "name": "3 star", "count": 34650 },
+      { "name": "4 star", "count": 46200 },
+      { "name": "5 star", "count": 51150 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135804.png",
+    "title": "StudyPal Flashcards",
+    "companyName": "Academic Tools LLC",
+    "id": 119,
+    "description": "Create, share, and study digital flashcards for any subject. Includes spaced repetition.",
+    "size": 30.2,
+    "reviews": 9200,
+    "ratingAvg": 4.7,
+    "downloads": "280K",
+    "ratings": [
+      { "name": "1 star", "count": 92 },
+      { "name": "2 star", "count": 184 },
+      { "name": "3 star", "count": 736 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 5888 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/575/575646.png",
+    "title": "SystemClean Master",
+    "companyName": "Utility Forge Inc.",
+    "id": 120,
+    "description": "Optimize your device's performance, clear junk files, and manage battery life.",
+    "size": 18.9,
+    "reviews": 70000,
+    "ratingAvg": 4.1,
+    "downloads": "2M",
+    "ratings": [
+      { "name": "1 star", "count": 4200 },
+      { "name": "2 star", "count": 5600 },
+      { "name": "3 star", "count": 11200 },
+      { "name": "4 star", "count": 17500 },
+      { "name": "5 star", "count": 31500 }
+    ]
+  }
+]
