@@ -1,14 +1,16 @@
 import React from 'react';
-import { NavLink} from 'react-router';
+import { NavLink } from 'react-router';
 import AppsCard from '../Components/AppsCard';
 import useApps from '../hooks/useApps';
+import LoadingSpinner from '../Components/LoadingSpinner';
 
 const Home = () => {
   // const apps = useLoaderData()
-  const {apps, loading, error} = useApps()
+  const { apps, loading, error } = useApps()
   const TrendingApps = apps.slice(0, 8)
   return (
     <section>
+
       <div className='items-center space-y-5 mt-10'>
         <h1 className='text-center text-5xl font-bold '>We Build
           <br />
@@ -53,13 +55,14 @@ const Home = () => {
         <h1 className='text-center text-4xl font-semibold mt-10'>Trending Apps</h1>
         <p className='text-center mt-2 mb-10 text-gray-500'>Explore All Trending Apps on the Market developed by us</p>
       </div>
-      <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 p-30'>
-        {
-          TrendingApps.map(app => (
-            <AppsCard key={app.id} app={app}></AppsCard>
-          ))
-        }
-      </div>
+      {loading ? <LoadingSpinner></LoadingSpinner> :
+        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 p-30'>
+          {
+            TrendingApps.map(app => (
+              <AppsCard key={app.id} app={app}></AppsCard>
+            ))
+          }
+        </div>}
       <NavLink to='/Apps'>
         <div className=' flex justify-center mb-10'>
           <button className='bg-gradient-to-b from-[#632EE3] to-[#9F62F2] rounded text-white gap-2 p-4 text-2xl hover:scale-105 transition ease-in-out'>
